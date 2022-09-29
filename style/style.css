@@ -1197,7 +1197,6 @@ section#overview > div.wrapper > .left img:nth-child(2) {
         width: 150px;
         right: 223px;
         top: 21px;
-        display: none;
     }
 
     section#about > div.wrapper {
@@ -1459,7 +1458,6 @@ section#overview > div.wrapper > .left img:nth-child(2) {
         position: relative;
         display: flex;
         justify-content: flex-end;
-        display: none;
     }
 
     #home > .wrapper > .left > ul h1 {

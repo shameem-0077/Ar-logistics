@@ -1195,8 +1195,8 @@ section#overview > div.wrapper > .left img:nth-child(2) {
     #home > .wrapper > .right img:nth-child(2) {
         position: absolute;
         width: 150px;
-        right: 223px;
-        top: 21px;
+        right: 140px;
+        top: 10px;
     }
 
     section#about > div.wrapper {

@@ -1119,7 +1119,7 @@ section#overview > div.wrapper > .left img:nth-child(2) {
     }
 }
 
-@media all and (max-width: 414px) {
+@media all and (max-width: 480px) {
     #home > .wrapper > .left {
         width: 100%;
     }

@@ -1512,6 +1512,36 @@ section#overview > div.wrapper > .left img:nth-child(2) {
     }
 }
 
+@media all and (max-width: 414px) and (min-width: 393px) {
+    #home > .wrapper > .left {
+        width: 100%;
+    }
+
+    #home > .wrapper > .right img:nth-child(1) {
+        width: 150px;
+    }
+
+    #home > .wrapper > .right img:nth-child(2) {
+        position: absolute;
+        width: 128px;
+        right: 157px;
+        top: 5px;
+    }
+
+    #home > .wrapper > .left > ul h1 {
+        font-size: 45px;
+        width: 100%;
+        text-align: center;
+    }
+
+    #home > .wrapper > .left > ul p {
+        font-size: 13px;
+        width: 260px;
+        color: gray;
+        text-align: center;
+    }
+}
+
 @media all and (max-width: 360px) {
     #home > .wrapper > .left {
         width: 100%;
